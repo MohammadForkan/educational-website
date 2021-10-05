@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+#Educational website
+- Using react route and js
+- using bootstrap framework
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
